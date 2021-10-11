@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background: linear-gradient(#ed5891 0%, #ffffff 100%);
+}
+
+.announcement {
+    background: white;
+    font-weight: 500;
+    font-family: fantasy
+}
+
+#logo {
+    width: 50px;
+    height: 50px;
+}
+
+.achievements {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.achievements i {
+    float: right;
+}
+
+.achievements span {
+    color: #ff7700;
+}
